@@ -38,7 +38,7 @@ setup(
         'pdfminer.six ; python_version >= "3.8"',
         'pdfminer.six >=20160614, <=20220524 ; python_version < "3.8"',
         'python-dateutil',
-        'requests==2.21.0',
+        'requests>=2.21.0',
         'six',
         'python-crfsuite',
         'tabledataextractor',
